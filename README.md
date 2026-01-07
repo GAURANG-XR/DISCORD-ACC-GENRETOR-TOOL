@@ -1,9 +1,3 @@
-Creating a professional `README.md` for a Discord account generator or management tool is crucial for helping users understand how to set it up while protecting yourself legally.
-
-Below is a comprehensive template you can use.
-
----
-
 # 🚀 Discord Account Utility Tool
 
 A high-performance, automated tool designed for Discord account management and generation. This tool simplifies the process of creating and verifying accounts for testing or community management purposes.
@@ -79,22 +73,4 @@ Follow the on-screen prompts to select the number of accounts and the specific m
 
 ---
 
-## 🤝 Contributing
 
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create.
-
-1. Fork the Project.
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the Branch (`git push origin feature/AmazingFeature`).
-5. Open a Pull Request.
-
----
-
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-**Would you like me to generate a specific `requirements.txt` file or a `config.json` structure to go along with this README?**
